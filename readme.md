@@ -1,0 +1,1 @@
+use bash in terminal
