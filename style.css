@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+nav {
+  background-color: black;
+}
+.nav ol {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 25px;
+  margin-right: 25px;
+}
+
+.nav ol li {
+  list-style: none;
+}
+.nav ol li a {
+  text-decoration: none;
+  font-size: large;
+  color: aliceblue;
+}
