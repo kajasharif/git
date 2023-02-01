@@ -1,4 +1,4 @@
-use bash in terminal
+## use bash in terminal
 
 1. create a repo in the git hub
 2. then copy the HTTP address
